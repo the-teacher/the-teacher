@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🙋‍♂️ My name is Ilya Zykin and I have been a passionate educator, mentor, and IT coach since 2000. Over the years, I have honed my skills as a professional Ruby on Rails and Front-end developer, with a particular focus on React.
+🙋‍♂️ My name is Ilya Zykin and I have been a passionate educator, mentor, and IT coach since 2004. Over the years, I have honed my skills as a professional Ruby on Rails and Front-end developer, with a particular focus on React.
 
 🚀 I pride myself on staying up-to-date with the latest and most advanced technologies, and I make a point to learn something new every day. I believe in the power of simplicity, efficiency, and sustainability in my work, and strive to create the best possible solutions for my clients.
 
