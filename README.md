@@ -1,20 +1,21 @@
 ## Hi! I'm Ilya Zykin
 
+I am a former teacher of computer studies and programming. That is why on Github I'm `the-teacher`
+
 ### I am Ex-
 
-- teacher of computer studies and progarmming. That is why I'm `the-teacher`
 - EMERCOM officer
-- team lead
-- owner and a partner in some online projects
-- speaker
-- poem writer
-- music and songs composer
+- Team Lead
+- Owner and partner in some online projects
+- Speaker
+- Poet
+- Music and song composer
 
 ### I am
 
 - Full stack developer (Ruby, Rails, JS ecosystems)
 - Senior tech interviewer
-- Open-source enthusiast 
-- IT Coach and Mentor
+- Open-source enthusiast
+- IT coach and mentor
 - Books writer
 - Happy husband and father
