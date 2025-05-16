@@ -13,7 +13,7 @@ I am a former teacher of computer studies and programming. That is why on Github
 
 ### I am
 
-- Full stack developer (Ruby, Rails, JS ecosystems)
+- **Full stack Dev Lead** (Ruby, Rails, JS, React ecosystems)
 - Senior tech interviewer
 - Open-source enthusiast
 - IT coach and mentor
